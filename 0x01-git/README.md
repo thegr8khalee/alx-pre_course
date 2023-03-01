@@ -1,1 +1,2 @@
-my second
+#!/bin/bash
+school
